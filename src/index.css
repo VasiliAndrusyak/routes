@@ -11,3 +11,53 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+header{
+  background: #4fc698;
+  padding: 2rem 0;
+  text-align: center;
+}
+header > a {
+  color: white;
+  text-decoration: none;
+  padding: 0 1rem;
+}
+
+h1{
+  text-align: center;
+}
+.container{
+
+  padding-left: 2rem;
+  padding-right: 2rem;
+  margin: 0 auto;
+}
+
+main{
+  min-height: calc(100vh - 85px - 22px);
+
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+.active-link {
+  color: blue;
+  cursor: default;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
